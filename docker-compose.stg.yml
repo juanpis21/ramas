@@ -12,6 +12,7 @@ services:
     networks:
       - stg_net
 
+
   postgres:
     image: postgres:17
     container_name: auth_postgres_stg
