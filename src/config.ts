@@ -1,6 +1,8 @@
 /* 
     sirve para leer variables de entorno (.env)
     y ponerlas disponibles en toda la aplicación NestJS de forma ordenada y segura.
+
+    asdfghjklñ{}
 */
 import { registerAs } from "@nestjs/config"; 
 
